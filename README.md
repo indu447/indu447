@@ -24,5 +24,5 @@ I'm diving deeper into:
 
 ## 📬 Get in Touch
 
-- Connect with me on LinkedIn : (https://www.linkedin.com/in/ramar-k-26b49a320/).
-- Read my articles on Medium : (https://medium.com/@ramarkprof).
+- Connect with me on LinkedIn : (https://www.linkedin.com/in//).
+- Read my articles on Medium : (https://medium.com/).
