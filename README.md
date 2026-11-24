@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 Hi, I'm induja
 I’m a passionate Software Developer with a strong interest in AI, Cloud and DevOps technologies. I am currently pursuing a B.Tech in Artificial Intelligence and Data Science and working as a Generative AI Intern at ABB Private Ltd. Proud to be a member of IEEE and contribute as a content writer on Medium.
-- Hi, I'm Ramar
+- Hi, I'm induja
 - I’m a passionate Software Developer with a strong interest in AI, Cloud and DevOps technologies. I am currently pursuing a B.Tech in Artificial Intelligence and Data Science and working as a Generative AI Intern at ABB Private Ltd. Proud to be a member of IEEE and contribute as a content writer on Medium.
 
 ![Ram-prof's Stats](https://github-readme-stats.vercel.app/api?username=Ram-prof&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
